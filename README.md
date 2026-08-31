@@ -4,3 +4,6 @@ Models how paracetamol concentration in the blood changes after single and repea
 Not medical advice — just a model.
 
 License MIT — see LICENSE.
+
+<img width="1200" height="600" alt="top_angled_view" src="https://github.com/user-attachments/assets/7bd52916-a504-4f50-bbee-195ca7420bcb" />
+<img width="1200" height="600" alt="contour_view" src="https://github.com/user-attachments/assets/dbf0bd61-a62a-4356-b32b-e0faa77ee361" />
